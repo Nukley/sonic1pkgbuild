@@ -32,6 +32,7 @@ package() {
     fi
 
     cd $srcdir/$pkgname-$pkgver
+    chmod +x "$srcdir/$pkgname-$pkgver/sonic.sh" 
     cp "$srcdir/$pkgname-$pkgver/sonic.sh" "$pkgdir/usr/bin/sonic1"
     cp -r ./ "$pkgdir/usr/share/games/$_pkgname"
     cp sonic.png "$pkgdir/usr/share/pixmaps"
