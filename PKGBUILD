@@ -1,6 +1,6 @@
 pkgname=sonicthehedgehog
 _pkgname=SonicTheHedgehog
-pkgver=1.0.2
+pkgver=1.0.2-2
 pkgrel=1
 pkgdesc="Sonic the Hedgehog game powered by the rsdkv4 engine."
 arch=('x86_64' 'aarch64' 'i686')
