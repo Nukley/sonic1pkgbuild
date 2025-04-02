@@ -1,6 +1,6 @@
 pkgbase = sonicthehedgehog
 	pkgdesc = Sonic the Hedgehog game powered by the rsdkv4 engine.
-	pkgver = 1.0.2
+	pkgver = 1.0.2-2
 	pkgrel = 1
 	url = https://github.com/Nukley/sonicthehedgehog
 	arch = x86_64
