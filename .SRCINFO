@@ -16,6 +16,6 @@ pkgbase = sonicthehedgehog
 	depends = unzip
 	depends = yad
 	source = https://github.com/Nukley/sonicthehedgehog/releases/download/1.0.3/sonicthehedgehog-1.0.3.tar
-	sha256sums = abc88a5088bf31326775bcada8d676386777da82f4d9cc39cf5ef77f95a1284a
+	sha256sums = 854a9f322c6d548465a09e20daa55bc302d81fce1996fa00b4e4638d086a1fdd
 
 pkgname = sonicthehedgehog
