@@ -1,6 +1,6 @@
 pkgname=sonicthehedgehog
 _pkgname=SonicTheHedgehog
-pkgver=1.0.2-2
+pkgver=1.0.3
 pkgrel=1
 pkgdesc="Sonic the Hedgehog game powered by the rsdkv4 engine."
 arch=('x86_64' 'aarch64' 'i686')
@@ -8,7 +8,7 @@ url="https://github.com/Nukley/sonicthehedgehog"
 license=('GPL')
 depends=('rsdkv4-git' 'libogg' 'libvorbis' 'wget' 'sdl2' 'unzip' 'yad')
 makedepends=('unzip')
-source=("https://github.com/Nukley/sonicthehedgehog/releases/download/1.0.2-2/sonicthehedgehog-1.0.2-2.tar")
+source=("https://github.com/Nukley/sonicthehedgehog/releases/download/1.0.3/sonicthehedgehog-1.0.3.tar")
 sha256sums=('abc88a5088bf31326775bcada8d676386777da82f4d9cc39cf5ef77f95a1284a')
 
 package() {
