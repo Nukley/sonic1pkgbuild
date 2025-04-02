@@ -9,7 +9,7 @@ license=('GPL')
 depends=('rsdkv4-git' 'libogg' 'libvorbis' 'wget' 'sdl2' 'unzip' 'yad')
 makedepends=('unzip')
 source=("https://github.com/Nukley/sonicthehedgehog/releases/download/1.0.3/sonicthehedgehog-1.0.3.tar")
-sha256sums=('854a9f322c6d548465a09e20daa55bc302d81fce1996fa00b4e4638d086a1fdd')
+sha256sums=('c7146b1c4be19812844f3c07b0d06ee670eaca9a9f2203a31deb248196a4167d')
 
 package() {
     install -dm755 "$pkgdir/usr/bin"
